@@ -1,0 +1,12 @@
+E:\c#\test_2p\capaEntidades\bin\Debug\capaEntidades.dll
+E:\c#\test_2p\capaEntidades\bin\Debug\capaEntidades.pdb
+E:\c#\test_2p\capaEntidades\obj\Debug\capaEntidades.csproj.AssemblyReference.cache
+E:\c#\test_2p\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+E:\c#\test_2p\capaEntidades\obj\Debug\capaEntidades.dll
+E:\c#\test_2p\capaEntidades\obj\Debug\capaEntidades.pdb
+D:\c#\test_2p\capaEntidades\bin\Debug\capaEntidades.dll
+D:\c#\test_2p\capaEntidades\bin\Debug\capaEntidades.pdb
+D:\c#\test_2p\capaEntidades\obj\Debug\capaEntidades.csproj.AssemblyReference.cache
+D:\c#\test_2p\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+D:\c#\test_2p\capaEntidades\obj\Debug\capaEntidades.dll
+D:\c#\test_2p\capaEntidades\obj\Debug\capaEntidades.pdb
